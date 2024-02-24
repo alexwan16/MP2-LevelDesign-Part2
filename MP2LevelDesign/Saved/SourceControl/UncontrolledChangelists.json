@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Eric/Downloads/MP2-LevelDesign-Part1/MP2LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/Eric/Downloads/MP2-LevelDesign-Part1/MP2LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/Eric/Downloads/MP2-LevelDesign-Part1/MP2LevelDesign/Content/Enemies/BP_Enemy1.uasset",
+				"C:/Users/Eric/Downloads/MP2-LevelDesign-Part1/MP2LevelDesign/Content/UI/DeathWidget.uasset",
+				"C:/Users/Eric/Downloads/MP2-LevelDesign-Part1/MP2LevelDesign/Content/BP_HealthPack.uasset",
+				"C:/Users/Eric/Downloads/MP2-LevelDesign-Part1/MP2LevelDesign/Content/Enemies/BP_Enemy3.uasset",
+				"C:/Users/Eric/Downloads/MP2-LevelDesign-Part1/MP2LevelDesign/Content/Enemies/BP_Mortar1.uasset",
+				"C:/Users/Eric/Downloads/MP2-LevelDesign-Part1/MP2LevelDesign/Content/BP_Coin.uasset",
+				"C:/Users/Eric/Downloads/MP2-LevelDesign-Part1/MP2LevelDesign/Content/Enemies/BP_Enemy5.uasset",
+				"C:/Users/Eric/Downloads/MP2-LevelDesign-Part1/MP2LevelDesign/Content/Enemies/BP_Bullet1.uasset",
+				"C:/Users/Eric/Downloads/MP2-LevelDesign-Part1/MP2LevelDesign/Content/UI/WinWidget.uasset",
+				"C:/Users/Eric/Downloads/MP2-LevelDesign-Part1/MP2LevelDesign/Content/Enemies/BP_Enemy2.uasset",
+				"C:/Users/Eric/Downloads/MP2-LevelDesign-Part1/MP2LevelDesign/Content/Enemies/BP_Mortar.uasset",
+				"C:/Users/Eric/Downloads/MP2LevelDesign/Content/UI/HealthWidget.uasset",
+				"C:/Users/Eric/Downloads/MP2LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/Eric/Downloads/MP2LevelDesign/Content/UI/1_-_9vTrX4y.uasset",
+				"C:/Users/Eric/Downloads/MP2LevelDesign/Content/UI/2_-_TdcYXnp.uasset",
+				"C:/Users/Eric/Downloads/MP2LevelDesign/Content/UI/DeathWidget.uasset",
+				"C:/Users/Eric/Downloads/MP2LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/Eric/Downloads/MP2LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"C:/Users/Eric/Downloads/MP2LevelDesign/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/Eric/Downloads/MP2LevelDesign/Content/BP_HealthPack.uasset",
+				"C:/Users/Eric/Downloads/MP2LevelDesign/Content/UI/ScoreWidget.uasset",
+				"C:/Users/Eric/Downloads/MP2LevelDesign/Content/BP_Coin.uasset",
+				"C:/Users/Eric/Downloads/MP2LevelDesign/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"C:/Users/Eric/Downloads/MP2LevelDesign/Content/Enemies/BP_Enemy1.uasset",
+				"C:/Users/Eric/Downloads/MP2LevelDesign/Content/Pursuer_AIController.uasset",
+				"C:/Users/Eric/Downloads/MP2LevelDesign/Content/BP_Pursuer.uasset",
+				"C:/Users/Eric/Downloads/MP2LevelDesign/Content/EAIState.uasset",
+				"C:/Users/Eric/Downloads/MP2LevelDesign/Content/Enemies/Pursuer_AIController.uasset",
+				"C:/Users/Eric/Downloads/MP2LevelDesign/Content/Enemies/BP_Pursuer.uasset"
+			]
+		}
+	]
+}
